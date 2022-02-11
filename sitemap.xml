@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/02/09/%E6%97%A5%E8%AE%B01/</loc>
+    <loc>https://www.kawuwa.online/2022/02/09/%E6%97%A5%E8%AE%B01/</loc>
     
     <lastmod>2022-02-09</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/02/07/My-New-Post/</loc>
+    <loc>https://www.kawuwa.online/2022/02/07/My-New-Post/</loc>
     
     <lastmod>2022-02-07</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>https://www.kawuwa.online/about/index.html</loc>
     
     <lastmod>2022-02-07</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://www.kawuwa.online/tags/index.html</loc>
     
     <lastmod>2022-02-07</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/resources/index.html</loc>
+    <loc>https://www.kawuwa.online/resources/index.html</loc>
     
     <lastmod>2022-02-07</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://www.kawuwa.online/categories/index.html</loc>
     
     <lastmod>2022-02-07</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/02/06/hello-world/</loc>
+    <loc>https://www.kawuwa.online/2022/02/06/hello-world/</loc>
     
     <lastmod>2022-02-06</lastmod>
     
@@ -66,7 +66,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://www.kawuwa.online/</loc>
     <lastmod>2022-02-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -74,7 +74,7 @@
 
   
   <url>
-    <loc>http://example.com/tags/%E6%97%A5%E8%AE%B0/</loc>
+    <loc>https://www.kawuwa.online/tags/%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2022-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -83,14 +83,14 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E6%97%A5%E5%B8%B8/</loc>
+    <loc>https://www.kawuwa.online/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2022-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E6%97%A5%E5%B8%B8/%E6%97%A5%E8%AE%B0/</loc>
+    <loc>https://www.kawuwa.online/categories/%E6%97%A5%E5%B8%B8/%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2022-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

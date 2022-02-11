@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://example.com/2022/02/09/%E6%97%A5%E8%AE%B01/</loc>
+    <loc>https://www.kawuwa.online/2022/02/09/%E6%97%A5%E8%AE%B01/</loc>
     <lastmod>2022-02-09</lastmod>
   </url>
   <url>
-    <loc>http://example.com/2022/02/07/My-New-Post/</loc>
+    <loc>https://www.kawuwa.online/2022/02/07/My-New-Post/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   <url>
-    <loc>http://example.com/2022/02/06/hello-world/</loc>
+    <loc>https://www.kawuwa.online/2022/02/06/hello-world/</loc>
     <lastmod>2022-02-06</lastmod>
   </url>
 </urlset> 
