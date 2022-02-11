@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>一</title>
-    <url>/2022/02/09/%E6%97%A5%E8%AE%B01/</url>
-    <content><![CDATA[<p>今天和家人去放风筝和打羽毛球。火车票买晚了，只有凌晨坐票。</p>
-]]></content>
-      <categories>
-        <category>日常</category>
-        <category>日记</category>
-      </categories>
-      <tags>
-        <tag>日记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>My New Post</title>
     <url>/2022/02/07/My-New-Post/</url>
     <content><![CDATA[]]></content>
@@ -35,5 +22,18 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>一</title>
+    <url>/2022/02/09/%E6%97%A5%E8%AE%B01/</url>
+    <content><![CDATA[<p>今天和家人去放风筝和打羽毛球。火车票买晚了，只有凌晨坐票。</p>
+]]></content>
+      <categories>
+        <category>日常</category>
+        <category>日记</category>
+      </categories>
+      <tags>
+        <tag>日记</tag>
+      </tags>
   </entry>
 </search>
