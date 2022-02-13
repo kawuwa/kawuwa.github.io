@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.kawuwa.online/2022/02/13/%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%B9%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C%E7%9A%84%E6%94%BF%E5%BA%9C%E7%9A%84%E9%93%B6%E8%A1%8C%E8%81%8C%E8%83%BD%E7%9A%84%E5%BD%B1%E5%93%8D/</loc>
+    
+    <lastmod>2022-02-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kawuwa.online/about/index.html</loc>
     
     <lastmod>2022-02-12</lastmod>
@@ -80,6 +89,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://www.kawuwa.online/tags/%E4%BD%9C%E4%B8%9A/</loc>
+    <lastmod>2022-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -91,6 +107,13 @@
   
   <url>
     <loc>https://www.kawuwa.online/categories/%E6%97%A5%E5%B8%B8/%E6%97%A5%E8%AE%B0/</loc>
+    <lastmod>2022-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kawuwa.online/categories/%E4%BD%9C%E4%B8%9A/</loc>
     <lastmod>2022-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
