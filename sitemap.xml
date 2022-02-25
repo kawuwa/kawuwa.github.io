@@ -110,27 +110,20 @@
 
   
   <url>
-    <loc>https://www.kawuwa.online/tags/%E4%BD%9C%E4%B8%9A/</loc>
-    <lastmod>2022-02-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kawuwa.online/tags/%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2022-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://www.kawuwa.online/categories/%E4%BD%9C%E4%B8%9A/</loc>
+    <loc>https://www.kawuwa.online/tags/%E4%BD%9C%E4%B8%9A/</loc>
     <lastmod>2022-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
+  
+
   
   <url>
     <loc>https://www.kawuwa.online/categories/%E6%97%A5%E5%B8%B8/</loc>
@@ -141,6 +134,13 @@
   
   <url>
     <loc>https://www.kawuwa.online/categories/%E6%97%A5%E5%B8%B8/%E6%97%A5%E8%AE%B0/</loc>
+    <lastmod>2022-02-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kawuwa.online/categories/%E4%BD%9C%E4%B8%9A/</loc>
     <lastmod>2022-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
