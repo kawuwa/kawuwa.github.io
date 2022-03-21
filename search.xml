@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>My New Post</title>
+    <url>/2022/02/07/My-New-Post/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>20220225</title>
     <url>/2022/02/25/20220225/</url>
     <content><![CDATA[<p>周四第一节国际经济学漏选了，不爽。乌克兰与俄罗斯开战了，同情乌克兰。</p>
@@ -14,9 +19,17 @@
       </tags>
   </entry>
   <entry>
-    <title>My New Post</title>
-    <url>/2022/02/07/My-New-Post/</url>
-    <content><![CDATA[]]></content>
+    <title>三二一日志</title>
+    <url>/2022/03/21/%E4%B8%89%E4%BA%8C%E4%B8%80%E6%97%A5%E5%BF%97/</url>
+    <content><![CDATA[<p>　　星期六崩溃的一天。</p>
+]]></content>
+      <categories>
+        <category>日记</category>
+        <category>日常</category>
+      </categories>
+      <tags>
+        <tag>日记</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -50,9 +63,9 @@
       </tags>
   </entry>
   <entry>
-    <title>一</title>
-    <url>/2022/02/09/%E6%97%A5%E8%AE%B01/</url>
-    <content><![CDATA[<p>今天和家人去放风筝和打羽毛球。火车票买晚了，只有凌晨坐票。</p>
+    <title>大二下第三天课</title>
+    <url>/2022/02/23/%E5%A4%A7%E4%BA%8C%E4%B8%8B%E7%AC%AC%E4%B8%89%E5%A4%A9%E8%AF%BE/</url>
+    <content><![CDATA[<p>英语科技文献和传统文化方式一样。统计学正常，没教科书有点难受。</p>
 ]]></content>
       <categories>
         <category>日常</category>
@@ -63,9 +76,9 @@
       </tags>
   </entry>
   <entry>
-    <title>大二下第三天课</title>
-    <url>/2022/02/23/%E5%A4%A7%E4%BA%8C%E4%B8%8B%E7%AC%AC%E4%B8%89%E5%A4%A9%E8%AF%BE/</url>
-    <content><![CDATA[<p>英语科技文献和传统文化方式一样。统计学正常，没教科书有点难受。</p>
+    <title>一</title>
+    <url>/2022/02/09/%E6%97%A5%E8%AE%B01/</url>
+    <content><![CDATA[<p>今天和家人去放风筝和打羽毛球。火车票买晚了，只有凌晨坐票。</p>
 ]]></content>
       <categories>
         <category>日常</category>
