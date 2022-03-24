@@ -76,7 +76,7 @@
       </tags>
   </entry>
   <entry>
-    <title>如果X列满秩，则$X^TX$为正定矩阵</title>
+    <title>如果$X$列满秩，则$X^TX$为正定矩阵</title>
     <url>/2022/03/24/%E5%A6%82%E6%9E%9CX%E5%88%97%E6%BB%A1%E7%A7%A9%EF%BC%8C%E5%88%99X-TX%E4%B8%BA%E6%AD%A3%E5%AE%9A%E7%9F%A9%E9%98%B5/</url>
     <content><![CDATA[<p>　　根据正定矩阵的定义可得，设$z$为任意非零向量，若$X^TX$为正定矩阵，则$z^TX^TXz\gt0$，即$(Xz)^TXz\gt0$。如果$X$列满秩，则其列向量线性无关，故$Xz\ne0$，故$(Xz)^TXz\gt0$，$X^TX$为正定矩阵。</p>
 ]]></content>
