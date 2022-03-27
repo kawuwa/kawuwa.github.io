@@ -148,7 +148,7 @@
 
   <url>
     <loc>https://www.kawuwa.online/</loc>
-    <lastmod>2022-03-26</lastmod>
+    <lastmod>2022-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -156,28 +156,28 @@
   
   <url>
     <loc>https://www.kawuwa.online/tags/%E6%97%A5%E8%AE%B0/</loc>
-    <lastmod>2022-03-26</lastmod>
+    <lastmod>2022-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kawuwa.online/tags/%E7%9F%A9%E9%98%B5/</loc>
-    <lastmod>2022-03-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kawuwa.online/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2022-03-26</lastmod>
+    <lastmod>2022-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kawuwa.online/tags/%E4%BD%9C%E4%B8%9A/</loc>
-    <lastmod>2022-03-26</lastmod>
+    <lastmod>2022-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kawuwa.online/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2022-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -186,49 +186,49 @@
   
   <url>
     <loc>https://www.kawuwa.online/categories/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2022-03-26</lastmod>
+    <lastmod>2022-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kawuwa.online/categories/%E6%97%A5%E5%B8%B8/%E6%97%A5%E8%AE%B0/</loc>
-    <lastmod>2022-03-26</lastmod>
+    <lastmod>2022-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kawuwa.online/categories/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/</loc>
-    <lastmod>2022-03-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kawuwa.online/categories/%E6%96%87%E5%AD%A6/</loc>
-    <lastmod>2022-03-26</lastmod>
+    <lastmod>2022-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kawuwa.online/categories/%E4%BD%9C%E4%B8%9A/</loc>
-    <lastmod>2022-03-26</lastmod>
+    <lastmod>2022-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kawuwa.online/categories/%E6%96%87%E5%AD%A6/</loc>
+    <lastmod>2022-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kawuwa.online/categories/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%9F%A9%E9%98%B5/</loc>
-    <lastmod>2022-03-26</lastmod>
+    <lastmod>2022-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.kawuwa.online/categories/%E6%96%87%E5%AD%A6/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2022-03-26</lastmod>
+    <lastmod>2022-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
