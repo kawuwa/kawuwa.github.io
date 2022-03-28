@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>My New Post</title>
-    <url>/2022/02/07/My-New-Post/</url>
-    <content><![CDATA[
-]]></content>
-  </entry>
-  <entry>
     <title>20220225</title>
     <url>/2022/02/25/20220225/</url>
     <content><![CDATA[<p>周四第一节国际经济学漏选了，不爽。乌克兰与俄罗斯开战了，同情乌克兰。</p>
@@ -17,6 +11,59 @@
       </categories>
       <tags>
         <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>My New Post</title>
+    <url>/2022/02/07/My-New-Post/</url>
+    <content><![CDATA[
+]]></content>
+  </entry>
+  <entry>
+    <title>三二一日志</title>
+    <url>/2022/03/21/%E4%B8%89%E4%BA%8C%E4%B8%80%E6%97%A5%E5%BF%97/</url>
+    <content><![CDATA[<p>　　星期六崩溃的一天。2022年3月21日东航空难。</p>
+]]></content>
+      <categories>
+        <category>日常</category>
+        <category>日记</category>
+      </categories>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>大二下第三天课</title>
+    <url>/2022/02/23/%E5%A4%A7%E4%BA%8C%E4%B8%8B%E7%AC%AC%E4%B8%89%E5%A4%A9%E8%AF%BE/</url>
+    <content><![CDATA[<p>英语科技文献和传统文化方式一样。统计学正常，没教科书有点难受。</p>
+]]></content>
+      <categories>
+        <category>日常</category>
+        <category>日记</category>
+      </categories>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如果$X$列满秩，则$X^TX$为正定矩阵</title>
+    <url>/2022/03/24/%E5%A6%82%E6%9E%9CX%E5%88%97%E6%BB%A1%E7%A7%A9%EF%BC%8C%E5%88%99X-TX%E4%B8%BA%E6%AD%A3%E5%AE%9A%E7%9F%A9%E9%98%B5/</url>
+    <content><![CDATA[<p>　　根据正定矩阵的定义可得，设<span
+class="math inline">\(z\)</span>为任意非零向量，若<span
+class="math inline">\(X^TX\)</span>为正定矩阵，则<span
+class="math inline">\(z^TX^TXz\gt0\)</span>，即<span
+class="math inline">\((Xz)^TXz\gt0\)</span>。如果<span
+class="math inline">\(X\)</span>列满秩，则其列向量线性无关，故<span
+class="math inline">\(Xz\ne0\)</span>，故<span
+class="math inline">\((Xz)^TXz\gt0\)</span>，<span
+class="math inline">\(X^TX\)</span>为正定矩阵。</p>
+]]></content>
+      <categories>
+        <category>线性代数</category>
+        <category>矩阵</category>
+      </categories>
+      <tags>
+        <tag>矩阵</tag>
       </tags>
   </entry>
   <entry>
@@ -48,87 +95,6 @@ href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
   <entry>
-    <title>三二一日志</title>
-    <url>/2022/03/21/%E4%B8%89%E4%BA%8C%E4%B8%80%E6%97%A5%E5%BF%97/</url>
-    <content><![CDATA[<p>　　星期六崩溃的一天。2022年3月21日东航空难。</p>
-]]></content>
-      <categories>
-        <category>日常</category>
-        <category>日记</category>
-      </categories>
-      <tags>
-        <tag>日记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>大二下第一天上课感受</title>
-    <url>/2022/02/21/%E5%A4%A7%E4%BA%8C%E4%B8%8B%E7%AC%AC%E4%B8%80%E5%A4%A9%E4%B8%8A%E8%AF%BE%E6%84%9F%E5%8F%97/</url>
-    <content><![CDATA[<p>国际经济学，中级宏观经济学中规中矩。西方经济思想史不错，殷卫东有意思。</p>
-]]></content>
-      <categories>
-        <category>日常</category>
-        <category>日记</category>
-      </categories>
-      <tags>
-        <tag>日记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>大二下第三天课</title>
-    <url>/2022/02/23/%E5%A4%A7%E4%BA%8C%E4%B8%8B%E7%AC%AC%E4%B8%89%E5%A4%A9%E8%AF%BE/</url>
-    <content><![CDATA[<p>英语科技文献和传统文化方式一样。统计学正常，没教科书有点难受。</p>
-]]></content>
-      <categories>
-        <category>日常</category>
-        <category>日记</category>
-      </categories>
-      <tags>
-        <tag>日记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>实验</title>
-    <url>/2022/03/25/%E5%AE%9E%E9%AA%8C/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/03/25/Gaf4DjxeTvgupHS.png"
-alt="LDOCE5__ V 2-15.png" /><br />
-smms图床实验</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>如果$X$列满秩，则$X^TX$为正定矩阵</title>
-    <url>/2022/03/24/%E5%A6%82%E6%9E%9CX%E5%88%97%E6%BB%A1%E7%A7%A9%EF%BC%8C%E5%88%99X-TX%E4%B8%BA%E6%AD%A3%E5%AE%9A%E7%9F%A9%E9%98%B5/</url>
-    <content><![CDATA[<p>　　根据正定矩阵的定义可得，设<span
-class="math inline">\(z\)</span>为任意非零向量，若<span
-class="math inline">\(X^TX\)</span>为正定矩阵，则<span
-class="math inline">\(z^TX^TXz\gt0\)</span>，即<span
-class="math inline">\((Xz)^TXz\gt0\)</span>。如果<span
-class="math inline">\(X\)</span>列满秩，则其列向量线性无关，故<span
-class="math inline">\(Xz\ne0\)</span>，故<span
-class="math inline">\((Xz)^TXz\gt0\)</span>，<span
-class="math inline">\(X^TX\)</span>为正定矩阵。</p>
-]]></content>
-      <categories>
-        <category>线性代数</category>
-        <category>矩阵</category>
-      </categories>
-      <tags>
-        <tag>矩阵</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>一</title>
-    <url>/2022/02/09/%E6%97%A5%E8%AE%B01/</url>
-    <content><![CDATA[<p>今天和家人去放风筝和打羽毛球。火车票买晚了，只有凌晨坐票。</p>
-]]></content>
-      <categories>
-        <category>日常</category>
-        <category>日记</category>
-      </categories>
-      <tags>
-        <tag>日记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>试述比特币对中央银行的政府的银行职能的影响</title>
     <url>/2022/02/13/%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%B9%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C%E7%9A%84%E6%94%BF%E5%BA%9C%E7%9A%84%E9%93%B6%E8%A1%8C%E8%81%8C%E8%83%BD%E7%9A%84%E5%BD%B1%E5%93%8D/</url>
     <content><![CDATA[<p>所谓发行的银行，首先是指中央银行垄断纸币的发行权，成为全国唯一的现钞发行机构；其次是指中央银行作为货币政策的最高决策机构，在决定一国的货币供应量方面具有至关重要的作用。
@@ -149,10 +115,43 @@ class="math inline">\(X^TX\)</span>为正定矩阵。</p>
       </tags>
   </entry>
   <entry>
-    <title>近日事感想</title>
-    <url>/2022/03/22/%E8%BF%91%E6%97%A5%E4%BA%8B%E6%84%9F%E6%83%B3/</url>
-    <content><![CDATA[<p>　　俄罗斯出兵乌克兰，新冠疫情反复爆发，东航坠机，近些天发生的事件不断的刺激着我的神经。<br />
-　　枪炮病菌与废铁，世界又陷入了历史周期律。然而人生无常，一条条鲜活的生命转眼间就变成了残渣。佛教主张“无我”，世界是由因缘和合而成的，无常是常态。这是从长期和个体来看的。若从短期和总体来看，社会是不变或轮回的，似乎有一种规律在支配着它。以无常看待生命，消极；以有常看待生命，又陷入了宿命论的漩涡。我虽然暂时不能解决这个问题，但是我知道珍惜生命，珍惜当下和珍惜家人。</p>
+    <title>实验</title>
+    <url>/2022/03/25/%E5%AE%9E%E9%AA%8C/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/03/25/Gaf4DjxeTvgupHS.png"
+alt="LDOCE5__ V 2-15.png" /><br />
+smms图床实验</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>大二下第一天上课感受</title>
+    <url>/2022/02/21/%E5%A4%A7%E4%BA%8C%E4%B8%8B%E7%AC%AC%E4%B8%80%E5%A4%A9%E4%B8%8A%E8%AF%BE%E6%84%9F%E5%8F%97/</url>
+    <content><![CDATA[<p>国际经济学，中级宏观经济学中规中矩。西方经济思想史不错，殷卫东有意思。</p>
+]]></content>
+      <categories>
+        <category>日常</category>
+        <category>日记</category>
+      </categories>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一</title>
+    <url>/2022/02/09/%E6%97%A5%E8%AE%B01/</url>
+    <content><![CDATA[<p>今天和家人去放风筝和打羽毛球。火车票买晚了，只有凌晨坐票。</p>
+]]></content>
+      <categories>
+        <category>日常</category>
+        <category>日记</category>
+      </categories>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>落汤鸡</title>
+    <url>/2022/03/25/%E8%90%BD%E6%B1%A4%E9%B8%A1/</url>
+    <content><![CDATA[<p>　　思维受到限制。早上上课不爽，下午体育课振奋了身体。<span id="more"></span>下雨天有灵气涌入我的身体，整个身心都轻快了许多。什么时候雨伞质量变得那么差了，十几块的雨伞风一刮就翻了过去，不幸淋成了落汤鸡。记得小时候的雨伞十块钱左右还很结实，现在同质量的雨伞贵了好几倍，亲身感受到了十几年的通货膨胀。我跑到学校食堂吃饭顺便避雨。米饭土豆加又热又麻鸡蛋糁汤，是清冷春雨天的不二之选。体育课最后练习跳远，发力时感觉膝盖不舒服，应该是长时间不运动再加上跑步姿势不对造成的。作息不规律不利于身体健康，以后尽量在无课日八点半起床，每隔一天三公里跑步。自勉。</p>
 ]]></content>
       <categories>
         <category>文学</category>
@@ -163,9 +162,10 @@ class="math inline">\(X^TX\)</span>为正定矩阵。</p>
       </tags>
   </entry>
   <entry>
-    <title>落汤鸡</title>
-    <url>/2022/03/25/%E8%90%BD%E6%B1%A4%E9%B8%A1/</url>
-    <content><![CDATA[<p>　　思维受到限制。早上上课不爽，下午体育课振奋了身体。<span id="more"></span>下雨天有灵气涌入我的身体，整个身心都轻快了许多。什么时候雨伞质量变得那么差了，十几块的雨伞风一刮就翻了过去，不幸淋成了落汤鸡。记得小时候的雨伞十块钱左右还很结实，现在同质量的雨伞贵了好几倍，亲身感受到了十几年的通货膨胀。我跑到学校食堂吃饭顺便避雨。米饭土豆加又热又麻鸡蛋糁汤，是清冷春雨天的不二之选。体育课最后练习跳远，发力时感觉膝盖不舒服，应该是长时间不运动再加上跑步姿势不对造成的。作息不规律不利于身体健康，以后尽量在无课日八点半起床，每隔一天三公里跑步。自勉。</p>
+    <title>近日事感想</title>
+    <url>/2022/03/22/%E8%BF%91%E6%97%A5%E4%BA%8B%E6%84%9F%E6%83%B3/</url>
+    <content><![CDATA[<p>　　俄罗斯出兵乌克兰，新冠疫情反复爆发，东航坠机，近些天发生的事件不断的刺激着我的神经。<br />
+　　枪炮病菌与废铁，世界又陷入了历史周期律。然而人生无常，一条条鲜活的生命转眼间就变成了残渣。佛教主张“无我”，世界是由因缘和合而成的，无常是常态。这是从长期和个体来看的。若从短期和总体来看，社会是不变或轮回的，似乎有一种规律在支配着它。以无常看待生命，消极；以有常看待生命，又陷入了宿命论的漩涡。我虽然暂时不能解决这个问题，但是我知道珍惜生命，珍惜当下和珍惜家人。</p>
 ]]></content>
       <categories>
         <category>文学</category>
