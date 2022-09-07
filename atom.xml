@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>康勿忘</title>
+  
+  
+  <link href="https://www.kawuwa.online/atom.xml" rel="self"/>
+  
+  <link href="https://www.kawuwa.online/"/>
+  <updated>2022-03-29T14:53:05.967Z</updated>
+  <id>https://www.kawuwa.online/</id>
+  
+  <author>
+    <name>Kawuwa</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于国际收支平衡表的几个问题</title>
+    <link href="https://www.kawuwa.online/2022/03/28/%E5%85%B3%E4%BA%8E%E5%9B%BD%E9%99%85%E6%94%B6%E6%94%AF%E5%B9%B3%E8%A1%A1%E8%A1%A8%E7%9A%84%E5%87%A0%E4%B8%AA%E9%97%AE%E9%A2%98/"/>
+    <id>https://www.kawuwa.online/2022/03/28/%E5%85%B3%E4%BA%8E%E5%9B%BD%E9%99%85%E6%94%B6%E6%94%AF%E5%B9%B3%E8%A1%A1%E8%A1%A8%E7%9A%84%E5%87%A0%E4%B8%AA%E9%97%AE%E9%A2%98/</id>
+    <published>2022-03-28T15:34:31.000Z</published>
+    <updated>2022-03-29T14:53:05.967Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="经常转移与资本转移的区别">经常转移与资本转移的区别？</h1><p>　　引用老师讲的。 <span id="more"></span></p><blockquote><p>经常转移与资本转移的区别 –经常转移包括所有非资本转移的转移项目，不包括固定资产所有权的转移、同固定资产收买或放弃相联系的或以其为条件的资产转移、债权人不索取任何回报而取消的债务。经常转移可直接影响可支配收入的水平，并影响货物和服务的消费。 –实物转移就是资本转移，只要它涉及了（i）固定资产所有权的变更；或（ii）债权人放弃债务且未得到任何 回报。 –现金的转移也是资本转移，只要交易一方或双方同固定资产的收买或放弃联系在一起或以其为存在的条件。</p></blockquote><p>　　我的理解是只要是影响消费和收入的转移列为经常转移，不影响的列入资本转移。这应该是当初划分的依据。</p><h1id="直接向国外投资设备是记入经常账户还是金融账户">直接向国外投资设备是记入经常账户还是金融账户？</h1><p>　　本人理解是由于未经过<strong>海关</strong>，所以不是商品交易，而是直接投资，获得了国外资产的所有权。<ahref="http://m.safe.gov.cn/safe/2015/1230/6080.html">国际收支平衡表编制准则中文官方文档</a></p><h1 id="课堂测验的解答">课堂测验的解答</h1><p><img src="https://s2.loli.net/2022/03/29/SpcHymn4W81MXei.jpg"alt="国际收支测试.jpg" /> <imgsrc="https://s2.loli.net/2022/03/29/L945c8d7Mhepoi3.png"alt="国际收支答案.png" />　　直接捐钱应该是借记到经常转移，因为并没有明确要求与固定资产购买挂钩；贷记到资本与金融账户，不管是人民币还是美元都是资本流入，因为美元储备减少相当于持有美国资产减少。<ahref="https://wk.baidu.com/view/e8f9d7a975232f60ddccda38376baf1ffd4fe3d8">参考文档</a></p><p>　　向非居民支付利息是借记初次收入，贷记资本与金融账户。</p>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;经常转移与资本转移的区别&quot;&gt;经常转移与资本转移的区别？&lt;/h1&gt;
+&lt;p&gt;　　引用老师讲的。</summary>
+    
+    
+    
+    <category term="国际金融学" scheme="https://www.kawuwa.online/categories/%E5%9B%BD%E9%99%85%E9%87%91%E8%9E%8D%E5%AD%A6/"/>
+    
+    
+    <category term="国际收支平衡表" scheme="https://www.kawuwa.online/tags/%E5%9B%BD%E9%99%85%E6%94%B6%E6%94%AF%E5%B9%B3%E8%A1%A1%E8%A1%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如果$X$列满秩，则$X^TX$为正定矩阵</title>
+    <link href="https://www.kawuwa.online/2022/03/24/%E5%A6%82%E6%9E%9CX%E5%88%97%E6%BB%A1%E7%A7%A9%EF%BC%8C%E5%88%99X-TX%E4%B8%BA%E6%AD%A3%E5%AE%9A%E7%9F%A9%E9%98%B5/"/>
+    <id>https://www.kawuwa.online/2022/03/24/%E5%A6%82%E6%9E%9CX%E5%88%97%E6%BB%A1%E7%A7%A9%EF%BC%8C%E5%88%99X-TX%E4%B8%BA%E6%AD%A3%E5%AE%9A%E7%9F%A9%E9%98%B5/</id>
+    <published>2022-03-24T10:38:57.000Z</published>
+    <updated>2022-03-24T14:38:27.227Z</updated>
+    
+    <content type="html"><![CDATA[<p>　　根据正定矩阵的定义可得，设<spanclass="math inline">\(z\)</span>为任意非零向量，若<spanclass="math inline">\(X^TX\)</span>为正定矩阵，则<spanclass="math inline">\(z^TX^TXz\gt0\)</span>，即<spanclass="math inline">\((Xz)^TXz\gt0\)</span>。如果<spanclass="math inline">\(X\)</span>列满秩，则其列向量线性无关，故<spanclass="math inline">\(Xz\ne0\)</span>，故<spanclass="math inline">\((Xz)^TXz\gt0\)</span>，<spanclass="math inline">\(X^TX\)</span>为正定矩阵。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;　　根据正定矩阵的定义可得，设&lt;span
+class=&quot;math inline&quot;&gt;\(z\)&lt;/span&gt;为任意非零向量，若&lt;span
+class=&quot;math inline&quot;&gt;\(X^TX\)&lt;/span&gt;为正定矩阵，则&lt;span
+class=&quot;math inline</summary>
+      
+    
+    
+    
+    <category term="线性代数" scheme="https://www.kawuwa.online/categories/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/"/>
+    
+    <category term="矩阵" scheme="https://www.kawuwa.online/categories/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%9F%A9%E9%98%B5/"/>
+    
+    
+    <category term="矩阵" scheme="https://www.kawuwa.online/tags/%E7%9F%A9%E9%98%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>近日事感想</title>
+    <link href="https://www.kawuwa.online/2022/03/22/%E8%BF%91%E6%97%A5%E4%BA%8B%E6%84%9F%E6%83%B3/"/>
+    <id>https://www.kawuwa.online/2022/03/22/%E8%BF%91%E6%97%A5%E4%BA%8B%E6%84%9F%E6%83%B3/</id>
+    <published>2022-03-22T14:42:34.000Z</published>
+    <updated>2022-03-22T15:11:48.043Z</updated>
+    
+    <content type="html"><![CDATA[<p>　　俄罗斯出兵乌克兰，新冠疫情反复爆发，东航坠机，近些天发生的事件不断的刺激着我的神经。<br />　　枪炮病菌与废铁，世界又陷入了历史周期律。然而人生无常，一条条鲜活的生命转眼间就变成了残渣。佛教主张“无我”，世界是由因缘和合而成的，无常是常态。这是从长期和个体来看的。若从短期和总体来看，社会是不变或轮回的，似乎有一种规律在支配着它。以无常看待生命，消极；以有常看待生命，又陷入了宿命论的漩涡。我虽然暂时不能解决这个问题，但是我知道珍惜生命，珍惜当下和珍惜家人。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;　　俄罗斯出兵乌克兰，新冠疫情反复爆发，东航坠机，近些天发生的事件不断的刺激着我的神经。&lt;br /&gt;
+　　枪炮病菌与废铁，世界又陷入了历史周期律。然而人生无常，一条条鲜活的生命转眼间就变成了残渣。佛教主张“无我”，世界是由因缘和合而成的，无常是常态。这是从长期和个体来看的</summary>
+      
+    
+    
+    
+    <category term="文学" scheme="https://www.kawuwa.online/categories/%E6%96%87%E5%AD%A6/"/>
+    
+    <category term="随笔" scheme="https://www.kawuwa.online/categories/%E6%96%87%E5%AD%A6/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="随笔" scheme="https://www.kawuwa.online/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>试述比特币对中央银行的政府的银行职能的影响</title>
+    <link href="https://www.kawuwa.online/2022/02/13/%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%B9%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C%E7%9A%84%E6%94%BF%E5%BA%9C%E7%9A%84%E9%93%B6%E8%A1%8C%E8%81%8C%E8%83%BD%E7%9A%84%E5%BD%B1%E5%93%8D/"/>
+    <id>https://www.kawuwa.online/2022/02/13/%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%B9%E4%B8%AD%E5%A4%AE%E9%93%B6%E8%A1%8C%E7%9A%84%E6%94%BF%E5%BA%9C%E7%9A%84%E9%93%B6%E8%A1%8C%E8%81%8C%E8%83%BD%E7%9A%84%E5%BD%B1%E5%93%8D/</id>
+    <published>2022-02-13T12:22:54.000Z</published>
+    <updated>2022-02-13T13:15:42.129Z</updated>
+    
+    <content type="html"><![CDATA[<p>所谓发行的银行，首先是指中央银行垄断纸币的发行权，成为全国唯一的现钞发行机构；其次是指中央银行作为货币政策的最高决策机构，在决定一国的货币供应量方面具有至关重要的作用。<span id="more"></span>因此要分析比特币等非官方数字货币对中央银行作为“发行的银行”的职能的影响，就必须从货币发行权和货币供应量两方面入手。</p><p>先来分析一下中央银行是如何掌握货币发行权的。在银行业发展早期，每个银行都有发行银行券的权利，但是随着经济的发展和银行机构的增加，银行券分散发行的弊端逐渐暴露出来，主要包括：中小银行信用薄弱，银行券往往不能保证兑换，易引发连锁反应和社会混乱；银行券不易分辨，流通成本高，为了解决这些问题，客观上要求一个权威性的银行来统一发行银行券。一般商业银行向中央银行的转化的历史，首先是他独占银行券发行的历史。后来人们发现可以通过中央银行的这一职能调节货币供应量，成为调控经济的重要工具。</p><p>显然，比特币等非官方数字货币也有法币的这一优点，而且优势比法币更突出。就拿比特币来说，它是一个去中心化的支付系统，节点分布全球，这就意味着比特币能在全球范围内进行交易，有希望成为一种国际货币。而由一国中央银行发行的法币，一般只能在国内大规模使用，从而提高了国际交易的成本。因此比特币可以在这方面取代法币。</p><p>比特币还有其他的优点。它采取分布式账本，交易信息完全公开，不存在制造假币的情况等，会使得人们在一定程度上愿意用比特币交易。总的来说，比特币等新型非官方数字货币对法币来说有一定优势，在某些方面能威胁到中央银行的货币发行权。</p><p>但是就目前来说，比特币等新型非官方数字货币仍有难以解决的问题，阻碍了它们的继续发展。1.币值剧烈波动。目前比特币等虽然被称为货币，但仍被认为是一种商品资产。大部分比特币都是用来投机套利的，用来交易的只是很少的一部分。币值的剧烈波动使其难以执行货币的价值尺度和贮藏手段的职能。2.交易的匿名性会导致洗钱的增加。3.非官方数字货币不具有无限法偿性，仍不被大多数国家所认可。数字货币的这些缺点使它难以被社会广泛接受为货币。</p><p>比特币等数字货币的优缺点使其具有货币的某些属性，但还不能称其为完全的货币，也就是说对中央银行的货币发行权这一职能只有部分影响。中央银行在丧失了部分货币发行权后，势必会对其货币政策的执行产生影响。由于货币乘数效应，在中央银行发行的货币数量一定的情况下，非官方数字货币的增加可能会增加基础货币的供应量，从而导致实际货币供应量与中央银行预测的偏差过大，从而影响货币政策的执行效果。</p><p>中央银行必须采取措施来面对来自非官方数字货币的挑战。中央银行可以借鉴比特币等的优点，发行官方数字货币，降低社会交易成本；通过法律手段加强对比特币的监管，加强金融市场的稳定性。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;所谓发行的银行，首先是指中央银行垄断纸币的发行权，成为全国唯一的现钞发行机构；其次是指中央银行作为货币政策的最高决策机构，在决定一国的货币供应量方面具有至关重要的作用。</summary>
+    
+    
+    
+    <category term="作业" scheme="https://www.kawuwa.online/categories/%E4%BD%9C%E4%B8%9A/"/>
+    
+    
+    <category term="作业" scheme="https://www.kawuwa.online/tags/%E4%BD%9C%E4%B8%9A/"/>
+    
+  </entry>
+  
+</feed>
